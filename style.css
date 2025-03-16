@@ -1,0 +1,212 @@
+@import url('https://fonts.cdnfonts.com/css/minecraft-4');
+body{
+    background: url('background.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.btn {
+    text-decoration: none;float: right;
+
+    background-color: #333333;
+
+    border: none;
+
+    color: blue;
+
+    padding: 15px 30px;
+
+    font-size: 16px;
+
+    cursor: pointer;
+
+    border-radius: 5px;
+
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+    transition: all 0.2s ease-in-out;
+
+    text-decoration: none;
+
+    margin-top: -60px; /* Adjust the value as needed */
+}
+  a {
+    text-decoration: none;
+    color: inherit;
+    cursor: default;
+  }
+.img1{
+    height: 150px;
+    align-items: center;
+}
+.img2{
+    height: 150px;
+}
+.discover{
+    font-size: 65px;
+    font-family: 'Minecraft', sans-serif;
+    color: pink;
+}
+.txt1{
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+    color: blue;
+}
+.txt2{
+    font-size: 45px;
+    font-family: 'Minecraft', sans-serif;
+    color: blue;
+}
+.txt3{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: blueviolet;
+}
+.txt4{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: blueviolet;
+}
+.txt5{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: brown;
+}
+.txt6{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: brown
+}
+.txt7{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: brown;
+}
+.cherry1{
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+    color: blue;
+}
+.cherry2{
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+    color: blueviolet;
+}
+.cherry3{
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serifcolor;
+    color: blue;
+}
+.cherry4{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: rgb(253, 192, 255);
+}
+.cherry5{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: rgb(253, 192, 255);
+}
+.cherry6{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: rgb(253, 192, 255);
+}
+.cherry-biome{
+    width: 250px;
+}
+.sniffer1{
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+    color: yellow;
+}
+.sniffer2{
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+    color: yellow;
+}
+.sniffer3{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: green;
+}
+.sniffer4{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: green;
+}
+.sniffer5{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: red;
+}
+.sniffer6{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: red;
+}
+.sniffer{
+    width: 400px;
+}
+.armor-trim1{
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+    color: blue;
+}
+.armor-trim2{
+    font-size: 50px;
+    font-family: 'Minecraft', sans-serif;
+    color: blueviolet;
+}
+.armor-trim3{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: gold;
+}
+.armor-trim4{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: red;
+}
+.armor-trim5{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: green;
+}
+.armor-trim6{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: greenyellow;
+}
+.armor-trim7{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: aqua;
+}
+.armor-trim8{
+    font-size: 35px;
+    font-family: 'Minecraft', sans-serif;
+    color: brown;
+}
+.armor-trimimg{
+    height: 250px;
+}
+.back-to-home{
+    margin-top: -50px;
+    height: 50px;
+    float: left;
+    background-color: #333333;
+    border: none;
+    color: blue;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease-in-out;
+  }
+.download{
+    font-size: 40px;
+    font-family: 'Minecraft', sans-serif;
+    color: aqua;
+}

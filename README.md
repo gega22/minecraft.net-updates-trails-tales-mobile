@@ -1,1 +1,1 @@
-# minecraft.net-updates-trails-tales-mobile
+# minecraft.net-updates-trails-tales
